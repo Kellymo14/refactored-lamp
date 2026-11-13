@@ -1,2 +1,2 @@
-# refactored-lamp
+# proyecto-uno
 Primer proyecto en GITHUB
